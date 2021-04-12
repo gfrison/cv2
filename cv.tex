@@ -1,0 +1,226 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Twenty Seconds Resume/CV
+% LaTeX Template
+% Version 1.0 (14/7/16)
+%
+% Original author:
+% Carmine Spagnuolo (cspagnuolo@unisa.it) with major modifications by
+% Vel (vel@LaTeXTemplates.com) and Harsh (harsh.gadgil@gmail.com)
+%
+% License:
+% The MIT License (see included LICENSE file)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[letterpaper]{twentysecondcv} % a4paper for A4
+% Command for printing skill overview bubbles
+\newcommand\skills{
+~
+	\smartdiagram[bubble diagram]{
+        \textbf{Research}\\\textbf{~~Technology~~},
+        \textbf{Software}\\\textbf{Design},
+        \textbf{Product}\\\textbf{Management},
+        \textbf{~~~~~~Artificial~~~~~~}\\\textbf{~~Intelligence~~},
+        \textbf{Influencing}
+    }
+}
+
+% Programming skill bars
+\programming{
+{Product Management / 2.5},
+{Natural Language Processing / 2.5},
+{Deep Learning $\textbullet$ AI  \large / 3.5},
+{Software Architecture / 4},
+{Business\&Technical Communication / 3.5},
+{Programming $\textbullet$ Scala $\textbullet$ Java / 5}}
+
+% Projects text
+\education{
+\textbf{B.Eng, Computer Engineering}  \\
+University of Padua \\
+1995 - 1999 | Italy
+
+\textbf{Diploma in Industrial Engineering} \\
+ITIS of Bassano del Grappa\\
+1990 - 1995 | Italy
+}
+
+%----------------------------------------------------------------------------------------
+%	 PERSONAL INFORMATION
+%----------------------------------------------------------------------------------------
+% If you don't need one or more of the below, just remove the content leaving the command, e.g. \cvnumberphone{}
+
+\cvname{GIANCARLO FRISON} % Your name
+\cvjobtitle{Technology Strategist} % Job
+% title/career
+
+\cvlinkedin{/in/gfrison}
+% \cvgithub{}
+\cvnumberphone{} % Phone number
+\cvsite{gfrison.com} % Personal website
+\cvmail{giancarlo@gfrison.com} % Email address
+\about{Do research and create computational methods for solving technical and business problems. \\Solid track record in the design and implementation of software systems. \\Act as an ambassador for products, internally and externally and I asses initiatives' value. 
+     }
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+ \makeprofile % Print the sidebar
+
+%----------------------------------------------------------------------------------------
+%	 EXPERIENCE
+%---------------------------------1-------------------------------------------------------
+
+\section{Experience}
+
+\begin{twenty} % Environment for a list with descriptions
+\twentyitem
+    	{Now}
+		{2017}
+        {Technology Strategist}
+        {\href{https://cxlabs.sap.com/}{SAP Customer Experience Labs, Munich}}
+        {}
+        {
+        Research on \href{https://cxlabs.sap.com/2020/11/16/why-logic-programming-matters/}{\underline{Logic Programming}} for Automated Argumentation.\\
+        Built library for predicate inference from \href{https://cxlabs.sap.com/2020/08/14/what-are-knowledge-graphs-an-overview/}{\underline{Knowledge Graphs}} (\href{https://cxlabs.sap.com/2020/11/24/rule-engines-and-knowledge-intensive-processing-with-answer-set-programming/}{\underline{Answer Sets}}).
+        Prototype for \href{https://cxlabs.sap.com/2020/08/31/deep-learning-for-knowledge-graph-embeddings/}{\underline{Graph Neural Networks}} on Knowledge Graphs.\\
+        Technical and business related presentations at conferences and customers.\\ 
+        Released e-commerce \href{https://zefiro.cxlabs.sap.com}{\underline{prototype}} for Intelligent Digital Assistant.\\ 
+        Integrated \href{https://github.com/sap/bayesian-network-builder}{\underline{Bayesian Inference}} for \href{https://cxlabs.sap.com/2020/09/22/bayesian-inference-for-guided-selling-sap-predictive-summit-talk/}{\underline{Guided Selling}}.\\
+        Developed library for Deep Reinforcement Learning.\\
+        Release prototype for \href{https://sapvideoa35699dc5.hana.ondemand.com/?entry_id=1_kp5hbyih}{\underline{conversational commerce}}.\\
+        Created new \href{https://cxlabs.sap.com/tag/charly/}{\underline{search algorithms}} and improved \href{https://cxlabs.sap.com/2018/03/20/stochastic-conversational-workflows/}{\underline{contextualization}}  for chatbots. \\
+        Implemented \href{https://gfrison.com/2017/09/01/deeplearning-in-text-classification/}{\underline{intention classification}} for natural language processing.
+        
+	    }
+        
+	\twentyitem
+    	{2016}
+		{}
+        {Fellowship}
+        {\href{https://icn.sap.com/}{SAP Innovation Center, Munich}}
+        {}
+        {
+        {
+        Early drafts for the SAP machine learning platform (ex Leonardo).\\
+        Prototyping with Apache Mesos, Hadoop, SparkML and TensorFlow.
+        }
+        }
+    
+    \twentyitem
+   		{2014}
+		{}
+        {Software Specialist}
+        {\href{http://www.hybris.com}{SAP Hybris, Munich}}
+        {}
+        {
+        {
+        Designed and developed inter-process communication framework with Reactive/Event-Driven programming as standard tool for Hybris developers.
+        \\
+        Improved core platform's services and ORM internal framework.\\
+        Tuning and optimizing high throughput libraries for Hybris' commerce system.  
+
+    }
+        }
+     
+     \twentyitem
+   		{2013}
+		{}
+        {Selected Attendee}
+        {\href{https://www.repubblica.it/rubriche/startup-stories/2013/12/02/news/incubatore_startup-72502909/}{TechPeaks, Trento}}
+        {}
+        {
+Selected for the \href{https://www.repubblica.it/rubriche/startup-stories/2013/12/02/news/incubatore_startup-72502909/}{\underline{training program}} of the startup accelerator on Lean Startup methodologies, business planning, corporate administration and taxation.\\
+Released business plan for investors and obtained financial grants.\\
+Searched for synergies with commerce partners.\\
+Acquired license for food management.
+    	}
+    	
+    	\twentyitem
+    	{2011}
+    	{}
+    	{Development Architect}
+    	{Chelab Laboratories, Venice Area, Italy}
+    	{}
+    	{
+    	Design domain specific language (DSL) for chemical workflow management.\\
+    	Prototype with HBase and Riak (NoSQL databases) for media content.\\
+    	Coach on web development with Grails.\\
+    	Setup configuration management and continuous integration systems.
+    	}
+    	\twentyitem
+    	{2010}
+    	{}
+    	{Senior Software Developer}
+    	{Skebby, Milan, Italy}
+    	{}
+    	{
+    	Built and tutored the distributed micro-service system for B2C and B2B SMS delivery management.
+    	}
+    	\twentyitem
+    	{2008}
+    	{}
+    	{Senior Software Developer}
+    	{Quinary, Milan, Italy}
+    	{}
+    	{
+    	\href{https://gfrison.com/2009/04/24/powered-by-apache-mina/}{\underline{Re-written}} the SMS B2B delivery system for Vodafone, based on micro-service architecture with FioranoMQ.
+    	}
+    	\twentyitem
+    	{2007}
+    	{}
+    	{Senior Software Developer}
+    	{Nimbuzz, Rotterdam, The Netherlands}
+    	{}
+    	{
+    Implemented XMPP server-to-server Java framework.
+    	}
+    	\twentyitem
+    	{2006}
+    	{}
+    	{Software Consultant}
+    	{Ats, Milan, Italy}
+    	{}
+    	{
+    Created the BrokerTec facility integration, enabling trades of REPO market government securities.
+    	}
+    	\twentyitem
+    	{2006}
+    	{}
+    	{Software Consultant}
+    	{Abla, Milan, Italy}
+    	{}
+    	{
+    Developed the VXML interpreter and binded MRCP, including audio streaming with Real Time Protocol for voice automated assistants.
+    	}
+   	\\
+     \twentyitem
+   		{2002}
+		{}
+        {Backend Developer}
+        {\href{}{SecServizi, Padova}}
+        {}
+        {
+    Implemented IBM's Rational Software Architect plugins for \href{https://gfrison.com/tags/\#low-code-no-code}{\underline{Low Code/No Code}} Model Driven Architecture.
+       	}
+
+	%\twentyitem{<dates>}{<title>}{<location>}{<description>}
+\end{twenty}
+
+\section{Patents}
+\begin{twenty}
+\patent{2018}{System, computer-implemented method and computer program product for information retrieval.}
+{Request~pending}
+
+\patent{2018}{Computer-implemented method, system product for providing a conversational application interface.}{Request~pending}
+
+\patent{2019}{"Computer-implemented converter method for multi-component systems  and non-transitory storage medium.}{Request~pending}
+\end{twenty}
+
+
+\end{document}
