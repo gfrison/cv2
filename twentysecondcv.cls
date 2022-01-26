@@ -261,7 +261,8 @@
         \education
         \\
         \\
-\textnormal{\textcolor{test}{\faStar}} \href{https://www.scrum.org/certificates/583260}{\underline{Professional Scrum Master}}
+\textnormal{\textcolor{test}{\faCertificate}} \href{https://www.scrum.org/certificates/583260}{\underline{Professional Scrum Master}} \\
+\textnormal{\textcolor{test}{\faCertificate}} \href{https://gfrison.com/assets/certs/itil.pdf}{\underline{ITIL® Certificate Service Management}}
 
   \end{textblock}
 }

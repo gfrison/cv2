@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2019.11.27)  12 APR 2021 16:44
+This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2019.11.27)  27 OCT 2021 14:44
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -48,7 +48,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.046 seconds
+luaotfload | main : initialization completed in 0.065 seconds
 (./twentysecondcv.cls
 Document Class: twentysecondcv 2015/02/28 CV class
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
@@ -1119,85 +1119,85 @@ ore.styles.code.tex)
 ore.commands.code.tex))) (./cv.aux)
 \openout1 = cv.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 71.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 71.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 70.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
 LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 71.
+(Font)              scaled to size 10.0pt on input line 70.
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 71.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 71.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 71.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 71.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 71.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 71.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 71.
-LaTeX Font Info:    Redeclaring math accent \check on input line 71.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 71.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 71.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 71.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 71.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 71.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 71.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 71.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 71.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 71.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 71.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 71.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 71.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 71.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 71.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 71.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 71.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 71.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 70.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 70.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 70.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 70.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 70.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 70.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 70.
+LaTeX Font Info:    Redeclaring math accent \check on input line 70.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 70.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 70.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 70.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 70.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 71.
+(Font)              `operators' in the math version `normal' on input line 70.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 71.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 70.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 71.
+(Font)              `operators' in the math version `bold' on input line 70.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 71.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 70.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 71.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 71.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 71.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/ClearSans(0)/m/n on input line 71.
+(Font)                  OT1/cmss/m/n --> TU/ClearSans(0)/m/n on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 71.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 70.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 71.
+(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 71.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 70.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/ClearSans(0)/bx/n on input line 71.
+(Font)                  OT1/cmss/bx/n --> TU/ClearSans(0)/bx/n on input line 70.
 
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 71.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 70.
 
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1230,9 +1230,9 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 
 ))
 ABD: EveryShipout initializing macros ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 71.
+LaTeX Info: Redefining \selectfont on input line 70.
 \AtBeginShipoutBox=\box68
-Package hyperref Info: Link coloring OFF on input line 71.
+Package hyperref Info: Link coloring OFF on input line 70.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1242,9 +1242,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count327
 )
-LaTeX Info: Redefining \ref on input line 71.
-LaTeX Info: Redefining \pageref on input line 71.
-LaTeX Info: Redefining \nameref on input line 71.
+LaTeX Info: Redefining \ref on input line 70.
+LaTeX Info: Redefining \pageref on input line 70.
+LaTeX Info: Redefining \nameref on input line 70.
 
 (./cv.out) (./cv.out)
 \@outlinefile=\write4
@@ -1286,96 +1286,96 @@ LaTeX Info: Redefining \nameref on input line 71.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 73.
+(Font)              scaled to size 14.4pt on input line 72.
 LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 73.
+(Font)              scaled to size 12.0pt on input line 72.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 73.
+(Font)              <7> on input line 72.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 73.
+(Font)              <5> on input line 72.
 
-LaTeX Font Warning: Command \huge invalid in math mode on input line 73.
+LaTeX Font Warning: Command \huge invalid in math mode on input line 72.
 
 LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/n' will be
-(Font)              scaled to size 20.74pt on input line 73.
+(Font)              scaled to size 20.74pt on input line 72.
 
-Overfull \hbox (7.28821pt too wide) in paragraph at lines 73--73
+Overfull \hbox (7.28821pt too wide) in paragraph at lines 72--72
 []$[]$| 
  []
 
 
-LaTeX Font Warning: Command \huge invalid in math mode on input line 73.
+LaTeX Font Warning: Command \huge invalid in math mode on input line 72.
 
 
-Overfull \hbox (9.40044pt too wide) in paragraph at lines 73--73
+Overfull \hbox (9.40044pt too wide) in paragraph at lines 72--72
 []$[]$| 
  []
 
 
-LaTeX Font Warning: Command \huge invalid in math mode on input line 73.
+LaTeX Font Warning: Command \huge invalid in math mode on input line 72.
 
 
-Overfull \hbox (7.85725pt too wide) in paragraph at lines 73--73
+Overfull \hbox (7.85725pt too wide) in paragraph at lines 72--72
 []$[]$| 
  []
 
 
-Overfull \hbox (14.22643pt too wide) in paragraph at lines 73--73
+Overfull \hbox (14.22643pt too wide) in paragraph at lines 72--72
 [][] 
  []
 
 
-Overfull \hbox (2.15623pt too wide) in paragraph at lines 73--73
-\TU/ClearSans(0)/m/n/10 meth-ods for solv-ing tech-ni-cal and busi-
- []
-
-
-Overfull \hbox (0.42934pt too wide) in paragraph at lines 73--73
-\TU/ClearSans(0)/m/n/10 Solid track record in the de-sign and im-
+Overfull \hbox (9.43pt too wide) in paragraph at lines 72--72
+[]\TU/ClearSans(0)/m/n/10 Do re-search and cre-ate meth-ods for solv-
  []
 
 LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 73.
+(Font)              scaled to size 8.0pt on input line 72.
 LaTeX Font Info:    Font shape `TU/ClearSans(0)/bx/n' will be
-(Font)              scaled to size 8.0pt on input line 73.
+(Font)              scaled to size 8.0pt on input line 72.
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
 
  []
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 73.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 72.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 73.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 72.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 73.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 72.
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 73--73
+Overfull \hbox (0.4pt too wide) in paragraph at lines 72--72
 [][] 
  []
 
 LaTeX Font Info:    Font shape `TU/ClearSans(0)/bx/n' will be
-(Font)              scaled to size 10.0pt on input line 73.
+(Font)              scaled to size 10.0pt on input line 72.
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
 
  []
 
+
+Overfull \hbox (12.09996pt too wide) in paragraph at lines 72--72
+[]\TU/FontAwesome(0)/m/n/10 [] []$[]$[] 
+ []
+
 LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 79.
+(Font)              scaled to size 17.28pt on input line 78.
 
 Package hyperref Warning: Suppressing link with empty target on input line 210.
 
 
-Underfull \hbox (badness 10000) in alignment at lines 81--213
+Underfull \hbox (badness 10000) in alignment at lines 80--213
 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--214
+Underfull \hbox (badness 10000) in paragraph at lines 80--214
 
  []
 
@@ -1412,10 +1412,11 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 Here is how much of LuaTeX's memory you used:
  34116 strings out of 494291
  125017,953878 words of node,token memory allocated
- 1432 words of node memory still in use:
-   23 hlist, 1 vlist, 10 rule, 18 glue, 3 kern, 1 glyph, 98 attribute, 65 glue_s
-pec, 98 attribute_list, 2 write, 39 pdf_literal, 18 pdf_colorstack nodes
-   avail lists: 2:2075,3:565,4:56,5:502,6:73,7:5276,8:28,9:510,10:4,11:439
+ 1452 words of node memory still in use:
+   23 hlist, 1 vlist, 10 rule, 18 glue, 3 kern, 1 glyph, 100 attribute, 65 glue_
+spec, 100 attribute_list, 2 write, 39 pdf_literal, 2 pdf_action, 18 pdf_colorsta
+ck nodes
+   avail lists: 2:2011,3:540,4:53,5:502,6:76,7:5290,8:34,9:507,10:4,11:434
  37150 multiletter control sequences out of 65536+600000
  63 fonts using 12017375 bytes
  61i,17n,79p,810b,858s stack positions out of 5000i,500n,10000p,200000b,100000s
@@ -1424,10 +1425,10 @@ tf></usr/local/texlive/2019/texmf-dist/fonts/opentype/public/fontawesome/FontAwe
 some.otf></usr/local/texlive/2019/texmf-dist/fonts/truetype/intel/clearsans/Clea
 rSans-Bold.ttf></usr/local/texlive/2019/texmf-dist/fonts/truetype/intel/clearsan
 s/ClearSans-Regular.ttf><./fonts/segoeuib.ttf>
-Output written on cv.pdf (1 page, 49454 bytes).
+Output written on cv.pdf (1 page, 49934 bytes).
 
-PDF statistics: 103 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
+PDF statistics: 110 PDF objects out of 1000 (max. 8388607)
+ 73 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 131072)
  196 words of extra memory for PDF output out of 10000 (max. 100000000)
 
