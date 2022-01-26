@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2019.11.27)  26 JAN 2022 13:56
+This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2019.11.27)  26 JAN 2022 13:58
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -48,7 +48,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.062 seconds
+luaotfload | main : initialization completed in 0.060 seconds
 (./twentysecondcv.cls
 Document Class: twentysecondcv 2015/02/28 CV class
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
@@ -1416,7 +1416,7 @@ Here is how much of LuaTeX's memory you used:
    23 hlist, 1 vlist, 10 rule, 18 glue, 3 kern, 1 glyph, 100 attribute, 65 glue_
 spec, 100 attribute_list, 2 write, 39 pdf_literal, 2 pdf_action, 18 pdf_colorsta
 ck nodes
-   avail lists: 2:2003,3:536,4:54,5:500,6:75,7:5345,8:33,9:508,10:4,11:444
+   avail lists: 2:2003,3:536,4:54,5:500,6:75,7:5340,8:33,9:508,10:4,11:444
  37150 multiletter control sequences out of 65536+600000
  63 fonts using 12017375 bytes
  61i,17n,79p,810b,858s stack positions out of 5000i,500n,10000p,200000b,100000s
@@ -1425,7 +1425,7 @@ tf></usr/local/texlive/2019/texmf-dist/fonts/opentype/public/fontawesome/FontAwe
 some.otf></usr/local/texlive/2019/texmf-dist/fonts/truetype/intel/clearsans/Clea
 rSans-Bold.ttf></usr/local/texlive/2019/texmf-dist/fonts/truetype/intel/clearsan
 s/ClearSans-Regular.ttf><./fonts/segoeuib.ttf>
-Output written on cv.pdf (1 page, 49905 bytes).
+Output written on cv.pdf (1 page, 49893 bytes).
 
 PDF statistics: 109 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream
