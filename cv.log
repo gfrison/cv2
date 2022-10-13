@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2022.3.2)  8 SEP 2022 13:38
+This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2022.3.2)  13 OCT 2022 10:46
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -1153,8 +1153,8 @@ Here is how much of LuaTeX's memory you used:
  1509 words of node memory still in use:
    32 hlist, 1 vlist, 10 rule, 18 glue, 3 kern, 1 glyph, 97 attribute, 65 glue_s
 pec, 97 attribute_list, 2 write, 39 pdf_literal, 18 pdf_colorstack nodes
-   avail lists: 1:2,2:1985,3:1011,4:106,5:949,6:124,7:10228,8:66,9:1010,10:4,11:
-844
+   avail lists: 1:1,2:1999,3:1017,4:110,5:955,6:125,7:10298,8:68,9:1018,10:4,11:
+852
  46607 multiletter control sequences out of 65536+600000
  65 fonts using 10337807 bytes
  128i,17n,123p,514b,865s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1163,10 +1163,10 @@ tf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/fontawesome/FontAwe
 some.otf></usr/local/texlive/2021/texmf-dist/fonts/truetype/intel/clearsans/Clea
 rSans-Bold.ttf></usr/local/texlive/2021/texmf-dist/fonts/truetype/intel/clearsan
 s/ClearSans-Regular.ttf><./fonts/segoeuib.ttf>
-Output written on cv.pdf (1 page, 49380 bytes).
+Output written on cv.pdf (1 page, 49472 bytes).
 
-PDF statistics: 109 PDF objects out of 1000 (max. 8388607)
- 72 compressed objects within 1 object stream
+PDF statistics: 110 PDF objects out of 1000 (max. 8388607)
+ 73 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 131072)
  196 words of extra memory for PDF output out of 10000 (max. 100000000)
 
