@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2022.3.2)  13 OCT 2022 10:46
+This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2022.3.2)  13 OCT 2022 10:51
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -1072,8 +1072,8 @@ Overfull \hbox (14.22643pt too wide) in paragraph at lines 71--71
  []
 
 
-Overfull \hbox (9.43pt too wide) in paragraph at lines 71--71
-[]\TU/ClearSans(0)/m/n/10 Do re-search and cre-ate meth-ods for solv-
+Overfull \hbox (6.00064pt too wide) in paragraph at lines 71--71
+[]\TU/ClearSans(0)/m/n/10 Re-search-ing tech-ni-cal meth-ods for solv-
  []
 
 LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/n' will be
@@ -1153,7 +1153,7 @@ Here is how much of LuaTeX's memory you used:
  1509 words of node memory still in use:
    32 hlist, 1 vlist, 10 rule, 18 glue, 3 kern, 1 glyph, 97 attribute, 65 glue_s
 pec, 97 attribute_list, 2 write, 39 pdf_literal, 18 pdf_colorstack nodes
-   avail lists: 1:1,2:1999,3:1017,4:110,5:955,6:125,7:10298,8:68,9:1018,10:4,11:
+   avail lists: 1:1,2:1999,3:1017,4:110,5:947,6:125,7:10268,8:68,9:1018,10:4,11:
 852
  46607 multiletter control sequences out of 65536+600000
  65 fonts using 10337807 bytes
@@ -1163,7 +1163,7 @@ tf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/fontawesome/FontAwe
 some.otf></usr/local/texlive/2021/texmf-dist/fonts/truetype/intel/clearsans/Clea
 rSans-Bold.ttf></usr/local/texlive/2021/texmf-dist/fonts/truetype/intel/clearsan
 s/ClearSans-Regular.ttf><./fonts/segoeuib.ttf>
-Output written on cv.pdf (1 page, 49472 bytes).
+Output written on cv.pdf (1 page, 49444 bytes).
 
 PDF statistics: 110 PDF objects out of 1000 (max. 8388607)
  73 compressed objects within 1 object stream
