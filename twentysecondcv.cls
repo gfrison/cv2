@@ -261,6 +261,7 @@
         \education
         \\
         \\
+\textnormal{\textcolor{test}{\faCertificate}} \href{https://2022-eu.semantics.cc/users/giancarlo-frison}{\underline{Speaker at SEMANTiCS}} \\
 \textnormal{\textcolor{test}{\faCertificate}} \href{https://gfrison.com/assets/certs/Certificate-2021EU1-Giancarlo.pdf}{\underline{SAP Architect Curriculum}} \\
 \textnormal{\textcolor{test}{\faCertificate}} \href{https://www.scrum.org/certificates/583260}{\underline{Professional Scrum Master}} \\
 \textnormal{\textcolor{test}{\faCertificate}} \href{https://gfrison.com/assets/certs/itil.pdf}{\underline{ITIL® Certificate Service Management}}
