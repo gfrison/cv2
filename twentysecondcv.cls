@@ -243,18 +243,24 @@
     %------------------------------------------------
     \about
 
-    \profilesection{Daily Activities}{3.0cm}
-
+    \profilesection{Activities}{3.0cm}
 
 	\skills
+	\\
+	\textbullet Full-stack programming in Scala and Javascript\\
+	\textbullet Adept to natural language processing\\
+	\textbullet Applied ML knowledge for research\\
+	\textbullet Thought leadership for stakeholders
+	
 
         %------------------------------------------------
 
 
 %	 {\large \textbf{Skills}}
-\profilesection{Skills}{4.8cm}
+%\profilesection{Skills}{4.8cm}
 
-		 \programming
+
+%		 \programming
 
         \profilesection{Education}{4.0cm}
 

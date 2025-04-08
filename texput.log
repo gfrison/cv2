@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2019.11.27)  18 JUN 2021 10:42
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2024.3.15)  7 APR 2025 12:56
  restricted system commands enabled.
 **twentysecondcv.tex
 
@@ -10,11 +10,11 @@ This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2019.11.27)  18
 
 
 Here is how much of LuaTeX's memory you used:
- 5 strings out of 494291
- 100000,106986 words of node,token memory allocated 236 words of node memory still in use:
-   34 glue_spec nodes
+ 5 strings out of 477805
+ 100000,383344 words of node,token memory allocated 270 words of node memory still in use:
+   1 hlist, 39 glue_spec nodes
    avail lists: 2:12,3:1,4:1,5:1
- 4366 multiletter control sequences out of 65536+600000
- 14 fonts using 591799 bytes
- 0i,0n,0p,0b,6s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 20823 multiletter control sequences out of 65536+600000
+ 14 fonts using 591679 bytes
+ 0i,0n,0p,0b,6s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!
